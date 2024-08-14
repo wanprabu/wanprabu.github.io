@@ -34,7 +34,7 @@ Certification
 
 Research
 ======
-I have involved in several research projects and some research outcomes have been [published](% site.url %). My research fields and interest lie in supply chain management with sustainability strategies.
+I have involved in several research projects and some research outcomes have been [published](/publications). My research fields and interest lie in supply chain management with sustainability strategies.
 I am an active member of research groups 
 1. [ArcLog](https://uit.no/research/arclog-en) research group focuses on creating secure and sustainable logistics operations and industrial production in the north.
 2. [Intelligent Manufacturing and Logistics](https://uit.no/research/inmalog) research group focuses on development cutting-edge knowledge and technological solutions that promote human-centric production and logistics management
