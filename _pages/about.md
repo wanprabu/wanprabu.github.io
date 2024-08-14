@@ -3,7 +3,7 @@ permalink: /
 title: "About Me"
 author_profile: true
 seo_description: "Academic page of Wahyu Andy who working as a PhD student in Industrial Engineering"
-page.excerpt: "Academic page of Wahyu Andy who working as a PhD student in Industrial Engineering - excerpt"
+excerpt: "Academic page of Wahyu Andy who working as a PhD student in Industrial Engineering - excerpt"
 redirect_from: 
   - /about/
   - /about.html
@@ -17,8 +17,8 @@ Bio
 ======
 * **Ph.D student in Industrial Engineering**, UiT The Arctic University of Norway, 2023 - present
 * **M.Sc. in Industrial Engineering**, Pusan National University, Busan - South Korea, 2014 - 2016
-*   An awardee of Korean Government Scholarship Program (KGSP), 2013
-*   A former member of [BAE](https://baelab.pusan.ac.kr/baelab/63110/subview.do) lab
+  * An awardee of Korean Government Scholarship Program (KGSP), 2013
+  * A former member of [BAE](https://baelab.pusan.ac.kr/baelab/63110/subview.do) lab
 * **B.Sc. in Information System**, Institut Teknologi Sepuluh Nopember, Surabaya - Indonesia, 2005 - 2009
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
