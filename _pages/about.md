@@ -3,18 +3,22 @@ permalink: /
 title: "About Me"
 author_profile: true
 seo_description: "Academic page of Wahyu Andy who working as a PhD student in Industrial Engineering"
+page.excerpt: "Academic page of Wahyu Andy who working as a PhD student in Industrial Engineering - excerpt"
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I am a PhD fellow student in Industrial Engineering Department at UiT The Arctic University of Norway. I involve in 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! I am a PhD fellow student in the Industrial Engineering Department at [UiT The Arctic University of Norway](https://uit.no). Additionally, I am affiliated with [Telkom University - Surabaya Campus](https://surabaya.telkomuniversity.ac.id/) as a lecturer in the undergraduate program of the Industrial Engineering Department. Prior to my academic pursuits, I also gained several years of experience working in the IT industry.
+
+Should you need further information about study program in Industrial Engineering Department at UiT, please visit our [website](https://uit.no/enhet/iit?p_dimension_id=210113). Meanwhile, if you are interested in continuing study in Indonesia, you can see more information [here](https://smb.telkomuniversity.ac.id/). 
 
 Bio
 ======
 * **Ph.D student in Industrial Engineering**, UiT The Arctic University of Norway, 2023 - present
 * **M.Sc. in Industrial Engineering**, Pusan National University, Busan - South Korea, 2014 - 2016
+*   An awardee of Korean Government Scholarship Program (KGSP), 2013
+*   A former member of [BAE](https://baelab.pusan.ac.kr/baelab/63110/subview.do) lab
 * **B.Sc. in Information System**, Institut Teknologi Sepuluh Nopember, Surabaya - Indonesia, 2005 - 2009
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
