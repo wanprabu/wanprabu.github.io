@@ -1,18 +1,19 @@
 ---
 permalink: /
-title: "About Me - Wahyu Andy P."
+title: "About Me"
 author_profile: true
+seo_description: "Academic page of Wahyu Andy who working as a PhD student in Industrial Engineering"
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I am a PhD fellow student in Industrial Engineering Department at UiT The Arctic University of Norway. I involve in [ArcLog](https://uit.no/research/arclog-en) research groups focusing on creating secure and sustainable logistics operations and industrial production in the north. 
+Hi! I am a PhD fellow student in Industrial Engineering Department at UiT The Arctic University of Norway. I involve in 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 Bio
 ======
-* **Ph.D student in Industrial Engineering**, UiT The Arctic University of Norway, 2023 - Now
+* **Ph.D student in Industrial Engineering**, UiT The Arctic University of Norway, 2023 - present
 * **M.Sc. in Industrial Engineering**, Pusan National University, Busan - South Korea, 2014 - 2016
 * **B.Sc. in Information System**, Institut Teknologi Sepuluh Nopember, Surabaya - Indonesia, 2005 - 2009
 
@@ -22,17 +23,17 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Research
 ======
-I am a member of research groups 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I am an active member of research groups 
+1. [ArcLog](https://uit.no/research/arclog-en) research group focuses on creating secure and sustainable logistics operations and industrial production in the north.
+2. [Intelligent Manufacturing and Logistics](https://uit.no/research/inmalog) research group focuses on development cutting-edge knowledge and technological solutions that promote human-centric production and logistics management
+3. [Mascot - Mathematical Structures in Computations](https://uit.no/research/mascot) research group focuses on exploiting fundamental structures of mathematical computations, analyzing structural methods to reduce the complexity, as well as to adapt these methods to concrete applications in optimization, control theory, and robotics
 
-Research Interests
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Service
+======
+* Lecturer at Industrial Engineering Department, Institut Teknologi Telkom Surabaya, 2018 - Jul 2023
+* Head of Marketing and Admission Office, Institut Teknologi Telkom Surabaya, Nov 2021 - Jul 2023
+* Head of Research and Community Service Unit, Institut Teknologi Telkom Surabaya, Mar 2019 - Oct 2021
+# * The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
 ------
