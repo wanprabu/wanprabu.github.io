@@ -38,6 +38,8 @@ author:
   semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Wahyu-Prastyabudi"
+  scopus           : "http://www.scopus.com/authid/detail.url?authorId=57188879511"
+  wos              : "https://www.webofscience.com/wos/author/record/JBS-4174-2023"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
