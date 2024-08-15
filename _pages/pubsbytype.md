@@ -17,7 +17,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Sorted by Year](/publications/pubsbyyear), [Award Publications](/publications/pubs-awards), [External Publication Lists](/publications/lists)
+[Sorted by Year](/publications/pubsbyyear), [External Publication Lists](/publications/lists)
 
 [**Book Chapters**](publications/book) | [**Journals and Magazines**](/publications/journal) | [**Conferences and Workshops**](/publications/conference) | [**Tech Reports**](/publications/techreport) | [**Other**](/publications/other)
 
