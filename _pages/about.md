@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
-excerpt: "Academic page of Wahyu Andy who working as a PhD student in Industrial Engineering - excerpt"
+excerpt: "Academic page of Wahyu Andy, PhD student in Industrial Engineering at UiT The Arctic University of Norway"
 redirect_from: 
   - /about/
   - /about.html
