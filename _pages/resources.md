@@ -1,12 +1,14 @@
 ---
 layout: archive
-title: "CV"
+title: "Resources"
 permalink: /resources/
 author_profile: true
-excerpt: Shorted lists of reputable scholarships for graduate programs. Academic writing resources provides the learning materials for developing strong academic writing skills.
+excerpt: Reputable scholarships for graduate programs. And learning materials for academic writing development
 ---
 
 {% include base_path %}
+
+Shorted lists of reputable scholarships for graduate programs. Academic writing resources provides the learning materials for developing strong academic writing skills.
 
 Scholarship and PhD Opportunities
 ======
@@ -25,6 +27,7 @@ Countries like Scandinavia and the Netherlands often offer PhD positions as temp
 3. PhD in German: [Gerit](https://gerit.org/en), [DAAD databases](https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/)
 4. [Academic Positions](https://academicpositions.com/) for more diverse academic jobs, including PhD, in many countries
 5. Other jobs are often posted on the university's website.
+
 
 Academic Writing
 ======
