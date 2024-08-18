@@ -31,3 +31,9 @@ Countries like Scandinavia and the Netherlands often offer PhD positions as temp
 
 Academic Writing
 ======
+Developing effective writing skills, particularly for academic purposes and for non-native English speakers like myself, is not trivial. Thus, I compiled a list of useful resources to improve writing skills.
+
+Phrasebank
+-----
+1. [http://www.phrasebank.manchester.ac.uk/](http://www.phrasebank.manchester.ac.uk/)
+2. [https://www.ref-n-write.com/academic-phrasebank/](https://www.ref-n-write.com/academic-phrasebank/)
