@@ -10,9 +10,10 @@
 {% if page.collection != 'posts' %}
   {% assign path_type = nil %}
   {% assign crumb_path = '/' %}
+  {{ crumb_path,' ini bread 1' }}
 {% else %}
   {% assign crumb_path = site.categories.path %}
-  {{ crumb_path }}
+  {{ crumb_path,' ini bread 2' }}
 {% endif %}
 
 <nav class="breadcrumbs">
