@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD fellow student in the Industrial Engineering Department at [UiT The Arctic University of Norway](https://uit.no). Additionally, I am affiliated with [Telkom University - Surabaya Campus](https://surabaya.telkomuniversity.ac.id/) as a lecturer in the undergraduate program of the Industrial Engineering Department. Prior to my academic pursuits and involvement in scholarly community, I also gained several years of experience working in the IT industry.
+Hi! I am a PhD fellow student in the Industrial Engineering Department at [UiT The Arctic University of Norway](https://uit.no). Additionally, I am affiliated with [Telkom University - Surabaya Campus](https://surabaya.telkomuniversity.ac.id/) as a lecturer in the undergraduate program. Before my academic pursuits and involvement in the scholarly community, I gained working experience for several years in the IT industry.
 
-For more information about the Industrial Engineering program at UiT, please visit our [website](https://uit.no/enhet/iit?p_dimension_id=210113). To explore study options at Telkom University in Indonesia, you can find additional details [here](https://smb.telkomuniversity.ac.id/). 
+For more information about study programs or exchanges in the Industrial Engineering program at UiT, please visit our [website](https://uit.no/enhet/iit?p_dimension_id=210113). Meanwhile, if you are interested in finding study options at Telkom University in Indonesia, please see additional details [here](https://smb.telkomuniversity.ac.id/). 
 
 Bio
 ======
@@ -35,7 +35,7 @@ Certification
 
 Research
 ======
-I have been involved in several research projects, and some of the outcomes have been [published](/publications). My research background lies at the intersection of data analytics, supply chain management, and business process management. In particular, my current focus is on exploring the sustainability and resiliency aspects of the aquaculture industry from a supply chain viewpoint. 
+I have been involved in several research projects and published peer-reviewed [papers](/publications). My research background lies at the intersection of data analytics, supply chain management, and business process management. My current research focuses on exploring the sustainability and resiliency aspects of aquaculture supply chains. 
 
 My research interests include data-driven analytics, reconfigurable supply chains, AI and ML for supply chain analytics, and digital supply chain twins. I am an active member of research groups:
 1. [ArcLog](https://uit.no/research/arclog-en) research group focuses on creating secure and sustainable logistics operations and industrial production in the north.
