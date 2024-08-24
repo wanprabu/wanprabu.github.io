@@ -151,7 +151,7 @@ Run the following command in the terminal to build the `.pdf` slides
 
 `pandoc -t beamer presentation.md --slide-level 3 -H preamble.tex -o presentation.pdf`
 
-The sample output of above code is available [here](files/slides-with-obsidian.pdf)
+The sample output of above code is available [here](/files/slides-with-obsidian.pdf)
 
 Well, it is tiresome to make a clean and well built this markdown beamer slide template at the begining. But once everthing are prepared well on the table, the next workflow will much easier.
 
