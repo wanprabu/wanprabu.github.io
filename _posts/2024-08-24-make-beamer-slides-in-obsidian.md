@@ -14,17 +14,16 @@ After so many trial and errors, the presentation material was finally built. Pre
 
 Requirements
 ======
-1. You need Pandoc as an engine to convert `.md` file to `.pdf`
+1. You need [Pandoc](https://pandoc.org/) as an engine to convert `.md` file to beamer slides in `.pdf` format
 2. As a windows user, I use [MikTeX](https://miktex.org/) as a TeX package manager
-3. 
+3. Any markdown editors work fine. But personally I use my favourite Obsidian
 
-Templates
+Write your slides in markdown
 ======
-The following is a sample of markdown file I used. The first part contains YAML metadata, put within `---` marker.
+The following is a sample of markdown file I used. The first part contains YAML metadata, put inside `---` marker. The metadata information will be parsed by Pandoc to produce TeX file as a basis for beamer slides conversion into `.pdf` file.
 
 ```markdown
 ---
-category: slide
 title: Course Code - Longer course name here
 subtitle: "Build your first beamer slides using markdown and Pandoc"
 date: 2024-08-23	
@@ -39,7 +38,15 @@ numbersections: "false"
 titlegraphic: UiT-logo.png
 titlegraphicoptions: height=1cm
 ---
+```
 
+There are tons of themes for beamer presentation. Choose a suitable theme [here](https://hartwork.org/beamer-theme-matrix/). You may also set other variables for this metadata. Check the [documentation](https://pandoc.org/MANUAL.html#variables-for-beamer-slides) for furter information.
+
+The first Heading indicated by `#` marker defines a new section in the presentation. Accordingly, the second Heading will be converted as a subsection. 
+
+To specify the slide structure, you can set `--slide-level` option. The default level is 2. But in this example I used 3 levels. Please refer to the [documentation](https://pandoc.org/MANUAL.html#structuring-the-slide-show) for more information.
+
+```markdown
 # Introduction
 This presentation contains some guidelines for creating beamer slides
 
@@ -49,16 +56,24 @@ This presentation contains some guidelines for creating beamer slides
 
 1. Order with number
 2. Other points
+```
 
+Since I used 3 slide-levels, Heading 4 in this below example will turn into a block. 
+```markdown
 ## Objective
 
 #### Main objective
 The primary purpose of this guideline is to provide a brief tutorial for creating beamer slides
+```
 
+Inserting an image simply uses `![Figure Caption](path-to-image/figure.png)` syntax. If you need to specify the image size, adjusting the `height` or `width` is possible at the end of syntax.
+```markdown
 # Methods
 ![Flow chart of methods. You may replace with image from your local machine](https://assets-global.website-files.com/6184b461a39ff13bfb8c0556/618b7df8770a665e3c5cd9d2_sample-flowchart.jpeg){height=70%}
+```
 
-
+This slide shows an example code highlighting. List of languages supported by Pandoc can be checked by typing this command in the terminal `pandoc --list-highlight-languages`
+```markdown
 ## Algorithm
 ```jsx
 Bot.send("Are you going out to play?")
@@ -70,8 +85,14 @@ async function respond(inputText){
         Bot.send("ok");
     }
 }
+```
 
+Beamer allows for dividing the slide content into columns. To do so, follow the below sample for producing two equal width columns. First, you need to specify the columns using `::: columns` and close with `:::`. Then, within the block, specify the column block with `::::` *put whatever content in this column blok* `::::`. 
+
+It is also possible to specify the column wdith. Using this sytaxy `:::: {.column width=40%}`, you will get a column with 40% of width.
+```markdown
 # Results
+## Column equal width
 ::: columns
 
 :::: column
@@ -90,7 +111,14 @@ This text is even much smaller
 ::::
 
 :::
+```
 
+You allow to use some LaTeX syntax inside a markdown file. 
+- `\centering` will make a center aligned content
+- `\Huge` will make your text a lot bigger
+- `\textcolor{}{}` to produce coloured text
+
+```markdown
 # Conclusion
 - End of slides
 - No more content
@@ -101,9 +129,17 @@ This text is even much smaller
 
 ```
 
-I enclosed a preamble containing TeX file to setting some formatting elements.
+Preamble file
+------
+I enclosed a preamble containing TeX file to setting some formatting elements. This file is separated from the markdown.
+
 
 How to build
-------
+======
 
 `pandoc -t beamer presentation.md --slide-level 3 -H preamble.tex -o presentation.pdf`
+
+References
+======
+1. [https://lothode.pages.math.cnrs.fr/pageperso/blog/beamer-with-pandoc/](https://lothode.pages.math.cnrs.fr/pageperso/blog/beamer-with-pandoc/)
+2. [https://github.com/alexeygumirov/pandoc-beamer-how-to](https://github.com/alexeygumirov/pandoc-beamer-how-to)
