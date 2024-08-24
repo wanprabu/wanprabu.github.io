@@ -20,7 +20,7 @@ Requirements
 
 Write your slides in markdown
 ======
-The following is a sample of markdown file I used. The first part contains YAML metadata, put inside `---` marker. The metadata information will be parsed by Pandoc to produce TeX file as a basis for beamer slides conversion into `.pdf` file.
+The following is a sample of markdown file I used. The first part contains YAML metadata, put inside `---` marker. The metadata information will be parsed by Pandoc to produce TeX file as a basis for beamer slides conversion into `.pdf` file. For example, `titlegraphic` contains image shown at the slide title.
 
 ```markdown
 ---
@@ -40,7 +40,7 @@ titlegraphicoptions: height=1cm
 ---
 ```
 
-There are tons of themes for beamer presentation. Choose a suitable theme [here](https://hartwork.org/beamer-theme-matrix/). You may also set other variables for this metadata. Check the [documentation](https://pandoc.org/MANUAL.html#variables-for-beamer-slides) for furter information.
+There are tons of themes available for beamer presentation. Choose a suitable theme [here](https://hartwork.org/beamer-theme-matrix/). You may also set other variables for this metadata. Check the [documentation](https://pandoc.org/MANUAL.html#variables-for-beamer-slides) for furter information.
 
 The first Heading indicated by `#` marker defines a new section in the presentation. Accordingly, the second Heading will be converted as a subsection. 
 
@@ -70,6 +70,16 @@ Inserting an image simply uses `![Figure Caption](path-to-image/figure.png)` syn
 ```markdown
 # Methods
 ![Flow chart of methods. You may replace with image from your local machine](https://assets-global.website-files.com/6184b461a39ff13bfb8c0556/618b7df8770a665e3c5cd9d2_sample-flowchart.jpeg){height=70%}
+
+## Some theorem
+The well known Pythagorean theorem $x^2 + y^2 = z^2$ was  proved to be invalid for other exponents. 
+
+**Geometric distribution**
+
+$P[X=k] = (1-p)^{k-1}p, \quad k=1,2,\dots$
+
+$E[X]=\dfrac{1}{p}, \quad V[X]=\dfrac{1-p}{p^2}$
+
 ```
 
 This slide shows an example code highlighting. List of languages supported by Pandoc can be checked by typing this command in the terminal `pandoc --list-highlight-languages`
@@ -133,11 +143,100 @@ Preamble file
 ------
 I enclosed a preamble containing TeX file to setting some formatting elements. This file is separated from the markdown.
 
+```latex
+% Set color options
+\definecolor{Red}{HTML}{CB333B}
+\definecolor{Maroon}{rgb}{0.818, 0.079, 0.1023}
+\definecolor{Blue}{HTML}{007396}
+\definecolor{LightBlue}{HTML}{59BEC9}
+\definecolor{DarkBlue}{HTML}{003349}
+\definecolor{MyWhite}{HTML}{F8F8F8}
+
+% Add color pallete
+\setbeamercolor{palette primary}{bg=Blue,fg=white}
+\setbeamercolor{palette secondary}{bg=LightBlue,fg=white}
+\setbeamercolor{palette tertiary}{bg=DarkBlue,fg=white}
+\setbeamercolor{structure}{fg=DarkBlue}
+\setbeamercolor{background canvas}{bg=MyWhite}
+\setbeamercolor*{title}{bg=Blue, fg = white}
+\setbeamercolor*{frametitle}{bg=black!10, fg = DarkBlue}
+\setbeamercolor*{block title}{parent=structure,fg=white,bg=Blue}
+%\setbeamercolor*{block body}{fg=DarkBlue, bg=black!10}
+
+% Set font size for caption label
+\setbeamerfont{caption}{size=\scriptsize}
+
+% Set space between figure and caption
+\setlength\abovecaptionskip{1pt}
+
+% Create a footer section for each slide
+\makeatletter
+\setbeamertemplate{footline}
+{
+  \leavevmode
+    \hbox{%
+      \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.25ex,dp=1ex, center]
+      	    {author in head/foot}
+        	\usebeamerfont{author in head/foot} UiT The Arctic University of Norway
+      \end{beamercolorbox}%
+      \begin{beamercolorbox}[wd=.4\paperwidth,ht=2.25ex,dp=1ex, center]
+      	    {title in head/foot}
+        	\usebeamerfont{title in head/foot} \insertshorttitle
+      \end{beamercolorbox}%
+      \begin{beamercolorbox}[wd=.1\paperwidth,ht=2.25ex,dp=1ex, center]
+            {date in head/foot}
+        	\usebeamerfont{date in head/foot}
+        	\insertframenumber{} / \inserttotalframenumber
+      \end{beamercolorbox}}%
+      \vskip0pt
+}
+\makeatother
+\setbeamertemplate{navigation symbols}{}
+
+% Remove unnecessary slides
+%\AtBeginSection[]{} % uncomment this part to remove any section slides or set false section-titles option at the metadata
+\AtBeginSubsection{} % this part will remove subsection slides
+
+\AtBeginSection{
+   \frame{\sectionpage}
+}
+
+% Formatting section titles
+\makeatletter
+\setbeamertemplate{section page}
+{
+  \begingroup
+    \centering
+%    {\usebeamerfont{section name}\usebeamercolor[fg]{section name}\sectionname~\insertsectionnumber}
+    \vskip1em\par
+    \begin{beamercolorbox}[sep=12pt,center,colsep=-4bp,rounded=true,shadow=\beamer@themerounded@shadow]{section title}
+      \usebeamerfont{section title}\insertsection\par
+    \end{beamercolorbox}
+  \endgroup
+}
+\makeatother
+
+% Remove numbering from outline section
+\setbeamertemplate{frametitle continuation}[from second]
+
+% Add some packages
+\usepackage{graphicx} % Allows including images
+\usepackage{lmodern}
+\usepackage{textpos}
+\usepackage{svg}
+\usepackage{booktabs} % Allows the use of \toprule, \midrule and \bottomrule in tables
+\usepackage{tcolorbox}
+%\usepackage{minted}
+
+```
 
 How to build
 ======
+Run the following command in the terminal to build the `.pdf` slides
 
 `pandoc -t beamer presentation.md --slide-level 3 -H preamble.tex -o presentation.pdf`
+
+The sample output of above code is available here()
 
 References
 ======
