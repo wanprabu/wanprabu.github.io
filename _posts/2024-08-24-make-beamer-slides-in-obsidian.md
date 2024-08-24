@@ -1,5 +1,6 @@
 ---
 title: 'Make beamer slides using Obsidian and Pandoc'
+excerpt: 'Finally! This is my experience of building beamer slides presentation using markdown and Pandoc in Obsidian.'
 date: 2024-08-24
 permalink: /posts/make-beamer-slides-in-obsidian/
 tags:
@@ -42,7 +43,7 @@ titlegraphicoptions: height=1cm
 ---
 ```
 
-There are tons of themes available for beamer presentation. Choose a suitable theme [here](https://hartwork.org/beamer-theme-matrix/). You may also set other variables for this metadata. Check the [documentation](https://pandoc.org/MANUAL.html#variables-for-beamer-slides) for furter information.
+There are tons of themes available for beamer presentation. Choose a suitable theme [here](https://hartwork.org/beamer-theme-matrix/). You may also set other variables for this metadata. Check the [documentation](https://pandoc.org/MANUAL.html#variables-for-beamer-slides) for furter information. 
 
 The first Heading indicated by `#` marker defines a new section in the presentation. Accordingly, the second Heading will be converted as a subsection. 
 
@@ -153,9 +154,16 @@ Run the following command in the terminal to build the `.pdf` slides
 
 The sample output of above code is available [here](/files/slides-with-obsidian.pdf)
 
-Well, it is tiresome to make a clean and well built this markdown beamer slide template at the begining. But once everthing are prepared well on the table, the next workflow will much easier.
-
-References
+Summary
 ======
+Well, it is tiresome to make a clean and well built this markdown beamer slide template at the begining. Moreover, it is more difficult to debug compared to pure LaTeX. But once everthing are prepared well on the table, the next workflow will much easier.
+
+In summary, I use the following workflow to produce beamer slides:
+1. Make a template in Obsidian to easily automate the creation of markdown metadata and some default sections
+2. Edit the preable file to customise the slide formats
+3. Generate `pdf` slides using Pandoc
+4. See the result and make adjustment if necessary
+
+References: 
 1. [https://lothode.pages.math.cnrs.fr/pageperso/blog/beamer-with-pandoc/](https://lothode.pages.math.cnrs.fr/pageperso/blog/beamer-with-pandoc/)
 2. [https://github.com/alexeygumirov/pandoc-beamer-how-to](https://github.com/alexeygumirov/pandoc-beamer-how-to)
