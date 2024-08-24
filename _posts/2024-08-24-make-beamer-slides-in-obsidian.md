@@ -20,6 +20,88 @@ Requirements
 
 Templates
 ======
+The following is a sample of markdown file I used. The first part contains YAML metadata, put within `---` marker.
+
+```markdown
+---
+category: slide
+title: Course Code - Longer course name here
+subtitle: "Build your first beamer slides using markdown and Pandoc"
+date: 2024-08-23	
+aspectratio: "169"
+author: Put your name here
+institute: "Department of Industrial Engineering\r \\newline Faculty of Engineering Science and Technology"
+theme: CambridgeUS
+colortheme: dolphin
+toc: "true"
+toc-title: Outlines
+numbersections: "false"	
+titlegraphic: UiT-logo.png
+titlegraphicoptions: height=1cm
+---
+
+# Introduction
+This presentation contains some guidelines for creating beamer slides
+
+## Background
+* Important point
+* Point 2
+
+1. Order with number
+2. Other points
+
+## Objective
+
+#### Main objective
+The primary purpose of this guideline is to provide a brief tutorial for creating beamer slides
+
+# Methods
+![Flow chart of methods. You may replace with image from your local machine](https://assets-global.website-files.com/6184b461a39ff13bfb8c0556/618b7df8770a665e3c5cd9d2_sample-flowchart.jpeg){height=70%}
+
+
+## Algorithm
+```jsx
+Bot.send("Are you going out to play?")
+async function respond(inputText){
+    if (inputText == "yes"){
+        Bot.send("Wear a hat");
+    }
+    else {
+        Bot.send("ok");
+    }
+}
+
+# Results
+::: columns
+
+:::: column
+Left column content
+1. Item A
+2. Item B
+3. Item C
+::::
+
+:::: column
+\small
+This column displays smaller content
+
+\footnotesize
+This text is even much smaller
+::::
+
+:::
+
+# Conclusion
+- End of slides
+- No more content
+
+\centering
+\Huge
+\textcolor{Red}{Thank You}
+
+```
+
+I enclosed a preamble containing TeX file to setting some formatting elements.
 
 How to build
 ------
