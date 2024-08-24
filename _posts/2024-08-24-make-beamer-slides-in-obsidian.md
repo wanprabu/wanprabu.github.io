@@ -143,7 +143,7 @@ You allow to use some LaTeX syntax inside a markdown file.
 
 Preamble file
 ------
-I enclosed a preamble containing TeX file to setting some formatting elements. This file is separated from the markdown.
+I enclosed a [preamble](/files/beamer-preamble.tex) containing TeX file to customise some formatting elements. This file is separated from the markdown and used during the compile process.
 
 How to build
 ======
