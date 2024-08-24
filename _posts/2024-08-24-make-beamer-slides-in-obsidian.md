@@ -8,9 +8,11 @@ tags:
   - category2
 ---
 
-I recently made a success when building beamer slides using [Obisidian](https://obsidian.md/). I am familiar of using pure LaTeX to make a 
+I recently made a success when building beamer slides using [Obisidian](https://obsidian.md/). Though I am familiar of using pure LaTeX to make a beamer presentation, this markdown offers a better idea by using slightly less code. The conversion of markdown file was handled very well by the power of Pandoc. 
 
-After so many trial and errors, the presentation material was finally built. Previously, I have made a beamer template in Obsidian. But for some reasons the template was not able to produce the results as I expected. 
+It seems ridiculous to make just make a presentation using all these methods. I could simply jump to a more convenient software like PowerPoint. But somehow this routine is painful to lay out every slide. Then you end up with inconsistent slide format. Nonetheless, I still use PowerPoint occasionally for some simple graphic editing works.
+
+After so many trial and errors, the presentation material was finally built. Previously, I have made a beamer template in Obsidian. But for some reasons the template was not able to produce the results as I expected. So I made some improvements in the template and make a preamble file to customise the slide format.
 
 Requirements
 ======
@@ -236,7 +238,9 @@ Run the following command in the terminal to build the `.pdf` slides
 
 `pandoc -t beamer presentation.md --slide-level 3 -H preamble.tex -o presentation.pdf`
 
-The sample output of above code is available here()
+The sample output of above code is available [here](files/slides-with-obsidian.pdf)
+
+Well, it is tiresome to make a clean and well built this markdown beamer slide template at the begining. But once everthing are prepared well on the table, the next workflow will much easier.
 
 References
 ======
