@@ -53,4 +53,4 @@ I have taught undergraduate courses, mainly in information engineering. While I 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
-{% comment %}
+{% endcomment %}
