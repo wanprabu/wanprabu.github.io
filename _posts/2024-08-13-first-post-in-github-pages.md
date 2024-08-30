@@ -8,11 +8,11 @@ tags:
   - category2
 ---
 
-Finally! I published a new academic blog using github. This blog is built based on [academicpages.github.io](https://github.com/academicpages/academicpages.github.io). Following the guidelines on the academic pages and other references, I slightly modiifed the pages. 
+Finally! I published a new academic blog using Github. This blog is built based on [academicpages.github.io](https://github.com/academicpages/academicpages.github.io). I slightly modiifed the pages by following the guidelines on the academic pages and other references.
 
-During the deployment, I got some failures due to incorrect setup or syntax error. If you get the same errors, you can debug this through **Action** tab in your github repository. There you will see the deployement logs. 
+During the deployment, I got some failures due to incorrect setup or syntax errors. If you get the same errors, you can debug them by going to the **Action** tab in your github repository. There you will find the deployment logs. 
 
-Actually, I still manage my old [blog](https://wanprabu.wordpress.com), though it has been a long time I did not make any updates there. But then I decided to make another blog which has more academic and research contents. 
+Actually, I still manage my old [blog](https://wanprabu.wordpress.com), though it has been a long time since I made any updates there. But then I decided to make another blog with more academic and research content.
 
 Other references
 ======
