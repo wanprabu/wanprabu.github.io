@@ -1,6 +1,6 @@
 ---
 title: 'Make beamer slides using Obsidian and Pandoc'
-excerpt: 'Finally! This is my experience of building beamer slides presentation using markdown and Pandoc in Obsidian.'
+excerpt: 'Finally! This is my experience of building beamer slides presentation using markdown and Pandoc in Obsidian. I recently made a success when building beamer slides using Obsidian.'
 date: 2024-08-24
 permalink: /posts/make-beamer-slides-in-obsidian/
 tags:
@@ -126,7 +126,7 @@ This text is even much smaller
 :::
 ```
 
-You allow to use some LaTeX syntax inside a markdown file. 
+You are allowed to use some LaTeX syntax inside a markdown file. 
 - `\centering` will make a center aligned content
 - `\Huge` will make your text a lot bigger
 - `\textcolor{}{}` to produce coloured text
