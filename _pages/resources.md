@@ -16,9 +16,10 @@ Scholarship and PhD Opportunities
 2. Global Korea Scholarship [(GKS)](http://www.niied.go.kr/user/nd35203.do) offer degree program scholarship at Undergraduate, Master, and Doctoral levels at reputable universities in South Korea. 
 3. [Chevening](https://www.chevening.org/scholarships/) offer master scholarship program at any UK university.
 4. [Australia Awards Scholarships](https://www.dfat.gov.au/people-to-people/australia-awards/australia-awards-scholarships)
-5. [DAAD Scholarships](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/) graduate scholarship program at Germarny universities
-6. [Stipendium Hungaricum](https://stipendiumhungaricum.hu) graduate scholarship program at Hungarian universities
-7. [New Zealand Scholarships](https://www.nzscholarships.govt.nz/)
+5. [DAAD Scholarships](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/) graduate scholarship program at Germarny universities.
+6. [Stipendium Hungaricum](https://stipendiumhungaricum.hu) graduate scholarship program at Hungarian universities.
+7. [Swiss Government Excellence Scholarships](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html#632937668) offer research fellowship, PhD scholarship, and Post Doctoral scholarship.
+8. [New Zealand Scholarships](https://www.nzscholarships.govt.nz/)
 
 Countries like Scandinavia and the Netherlands often offer PhD positions as temporary research roles. This is akin to a research job within a university or research institution. Typically requiring full-time commitment, these positions can lead to a PhD upon successful completion of qualifications. Here are some resources to explore these opportunities: 
 
