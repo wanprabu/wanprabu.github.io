@@ -19,7 +19,8 @@ Scholarship and PhD Opportunities
 5. [DAAD Scholarships](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/) graduate scholarship program at Germarny universities.
 6. [Stipendium Hungaricum](https://stipendiumhungaricum.hu) graduate scholarship program at Hungarian universities.
 7. [Swiss Government Excellence Scholarships](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html#632937668) offer research fellowship, PhD scholarship, and Post Doctoral scholarship.
-8. [New Zealand Scholarships](https://www.nzscholarships.govt.nz/)
+8. [ASEAN – European Academic University Network](https://asea-uninet.org/) offer various scholarships, funding, and research awards.
+9. [New Zealand Scholarships](https://www.nzscholarships.govt.nz/)
 
 Countries like Scandinavia and the Netherlands often offer PhD positions as temporary research roles. This is akin to a research job within a university or research institution. Typically requiring full-time commitment, these positions can lead to a PhD upon successful completion of qualifications. Here are some resources to explore these opportunities: 
 
