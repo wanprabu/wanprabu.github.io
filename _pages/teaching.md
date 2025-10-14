@@ -8,7 +8,16 @@ author_profile: true
 
 {% include base_path %}
 
-I have taught undergraduate courses, mainly in information engineering. While I was at ITTS, now [Telkom University—Surabaya Campus](https://surabaya.telkomuniversity.ac.id), I was certified as an instructor, which enabled me to develop my teaching skills.
+During my PhD at Industrial Engineering department at [UiT](https://uit.no/startsida), I also got involved to contribute lecturing in few courses for master degree students. Some of lecture materials are available in Github repository.
+
+## UiT - Fall 2025/2026
+- Machine Learning and Industrial Applications at Industry X.0 course
+- [Introduction to Machine Learning: Methods and Applications](https://github.com/wanprabu/machine-learning-or) at Operation Research course
+- [Data-Driven Decision Making for Quality 4.0](https://github.com/wanprabu/quality-management-ml) at Quality Management course
+
+---
+
+I have taught undergraduate courses, mainly in information engineering. While I was at ITTS, now [Telkom University—Surabaya Campus](https://surabaya.telkomuniversity.ac.id), I was certified as an instructor, which enabled me to develop my teaching skills. Following are the list of my teaching at ITTS.
 
 ## Genap/Spring 2022/2023
 - Analisis Perancangan Sistem Informasi (_Analysis and Development of Information Systems_)
