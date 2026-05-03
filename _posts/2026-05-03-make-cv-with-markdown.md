@@ -1,11 +1,13 @@
 ---
 title: 'Make a clean CV with markdown and google sheet'
+excerpt: 'Building a clean CV using markdown and google sheet'
 date: 2026-05-03
 permalink: /posts/make-cv-with-markdown
 tags:
   - markdown
   - cv
   - workflow
+  - tutorial
 ---
 
 Recently I wanted to update my old CV. However, this time I did not want to manually update every item. Maintaining a CV is quite tedious routine. As when anytime I wanted to make any changes, I had to change the formating and even the entry orders. This usually will make the document getting messy. 
