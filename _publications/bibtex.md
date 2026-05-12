@@ -9,7 +9,7 @@ blogger-color: '#F37100'
 ---
 ## [prastyabudi2018utilizing](#prastyabudi2018utilizing)
 
-Prastyabudi, Wahyu Andy, Adi, Taufik Nur, and Bae, Hyerim, "**Utilizing Big Data and Fuzzy Inference for Evaluation of Port Operations**," *대한산업공학회지*, Vol. 44, No. 1, 2018, pp. 18-37. <a href='https://dx.doi.org/10.7232/JKIIE.2018.44.1.018' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Prastyabudi, Wahyu Andy, Adi, Taufik Nur, and Bae, Hyerim, "**Utilizing Big Data and Fuzzy Inference for Evaluation of Port Operations**," *대한산업공학회지*, Vol. 44, No. 1, 2018, pp. 18-37.
 
 [](#prastyabudi2018utilizingBib)
 **BibTeX entry:**
@@ -24,8 +24,7 @@ Prastyabudi, Wahyu Andy, Adi, Taufik Nur, and Bae, Hyerim, "**Utilizing Big Data
       volume={44},
       number={1},
       pages={18--37},
-      year={2018},
-     doi={10.7232/JKIIE.2018.44.1.018}
+      year={2018}
 }
 ```
 
@@ -33,7 +32,7 @@ Prastyabudi, Wahyu Andy, Adi, Taufik Nur, and Bae, Hyerim, "**Utilizing Big Data
 
 ## [prastyabudi2015interactive](#prastyabudi2015interactive)
 
-PRASTYABUDI, WAHYU ANDY and BAE, HYERIM, "**Interactive heat map for evaluation of container handling process**," *ICIC express letters. Part B, Applications: an international journal of research and surveys*, Vol. 6, No. 12, 2015, pp. 3385-3392. <a href='http://id.ndl.go.jp/bib/026961972' target='_blank'><i class='fas fa-fw fa-link'></i></a>
+PRASTYABUDI, WAHYU ANDY and BAE, HYERIM, "**Interactive heat map for evaluation of container handling process**," *ICIC express letters. Part B, Applications: an international journal of research and surveys*, Vol. 6, No. 12, 2015, pp. 3385-3392.
 
 [](#prastyabudi2015interactiveBib)
 **BibTeX entry:**
@@ -49,8 +48,7 @@ PRASTYABUDI, WAHYU ANDY and BAE, HYERIM, "**Interactive heat map for evaluation 
       number={12},
       pages={3385--3392},
       year={2015},
-      publisher={ICIC International},
-     url={http://id.ndl.go.jp/bib/026961972}
+      publisher={ICIC International}
 }
 ```
 
@@ -58,7 +56,7 @@ PRASTYABUDI, WAHYU ANDY and BAE, HYERIM, "**Interactive heat map for evaluation 
 
 ## [sutrisnowati2015bab](#sutrisnowati2015bab)
 
-Sutrisnowati, Riska Asriana, Bae, Hyerim, Pulshashi, Iq Reviessay, Putra, Ahmad Dzulfikar Adi, Prastyabudi, Wahyu Andy, Park, Sanghyuck, Joo, Byeongjun, and Choi, Yulim, "**BAB Framework: process mining on cloud**," *Procedia Computer Science*, Vol. 72, 2015, pp. 453-460. <a href='https://dx.doi.org/10.1016/j.procs.2015.12.126' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Sutrisnowati, Riska Asriana, Bae, Hyerim, Pulshashi, Iq Reviessay, Putra, Ahmad Dzulfikar Adi, Prastyabudi, Wahyu Andy, Park, Sanghyuck, Joo, Byeongjun, and Choi, Yulim, "**BAB Framework: process mining on cloud**," *Procedia Computer Science*, Vol. 72, 2015, pp. 453-460.
 
 [](#sutrisnowati2015babBib)
 **BibTeX entry:**
@@ -73,8 +71,7 @@ Sutrisnowati, Riska Asriana, Bae, Hyerim, Pulshashi, Iq Reviessay, Putra, Ahmad 
       volume={72},
       pages={453--460},
       year={2015},
-      publisher={Elsevier},
-     doi={10.1016/j.procs.2015.12.126}
+      publisher={Elsevier}
 }
 ```
 
@@ -82,7 +79,7 @@ Sutrisnowati, Riska Asriana, Bae, Hyerim, Pulshashi, Iq Reviessay, Putra, Ahmad 
 
 ## [prastyabudi2016activity](#prastyabudi2016activity)
 
-Prastyabudi, Wahyu Andy, "**Activity Flow Classification Using Heat Matrix and Fuzzy Inference for Evaluation of Port Operation Process**," 2016.
+Prastyabudi, Wahyu Andy, "**Activity Flow Classification Using Heat Matrix and Fuzzy Inference for Evaluation of Port Operation Process**," PhD thesis, *Pusan National University* 2016.
 
 [](#prastyabudi2016activityBib)
 **BibTeX entry:**
@@ -90,11 +87,10 @@ Prastyabudi, Wahyu Andy, "**Activity Flow Classification Using Heat Matrix and F
 {% raw %}
 
 ```bibtex
-@MISC {prastyabudi2016activity,
+@PHDTHESIS {prastyabudi2016activity,
       title={Activity Flow Classification Using Heat Matrix and Fuzzy Inference for Evaluation of Port Operation Process},
       author={Prastyabudi, Wahyu Andy},
       year={2016},
-      type={Master's Thesis},
       school={Pusan National University}
 }
 ```
@@ -145,7 +141,7 @@ Putra, Ahmad Dzulfikar Adi, Imawan, Ardi, Bae, Hyerim, and others, "**Scalable l
 
 ## [putra2018large](#putra2018large)
 
-Putra, Ahmad Dzulfikar Adi, Bae, Hye Rim, Pulshashi, Iq Reviessay, Sutrisnowati, Riska Asriana, Andy, Prastyabudi Wahyu, and Choi, Yu Lim, "**Large event log replay method and system**,", 12 2018. <a href='https://patents.google.com/patent/US10146659B2/en' target='_blank'><i class='fas fa-fw fa-link'></i></a>
+Putra, Ahmad Dzulfikar Adi, Bae, Hye Rim, Pulshashi, Iq Reviessay, Sutrisnowati, Riska Asriana, Andy, Prastyabudi Wahyu, and Choi, Yu Lim, "**Large event log replay method and system**,", dec # "~4 2018.
 
 [](#putra2018largeBib)
 **BibTeX entry:**
@@ -157,9 +153,8 @@ Putra, Ahmad Dzulfikar Adi, Bae, Hye Rim, Pulshashi, Iq Reviessay, Sutrisnowati,
       title={Large event log replay method and system},
       author={Putra, Ahmad Dzulfikar Adi and Bae, Hye Rim and Pulshashi, Iq Reviessay and Sutrisnowati, Riska Asriana and Andy, Prastyabudi Wahyu and Choi, Yu Lim},
       year={2018},
-      month={12},
-      note={US Patent 10,146,659},
-      url={https://patents.google.com/patent/US10146659B2/en}
+      month=dec # "~4",
+      note={US Patent 10,146,659}
 }
 ```
 
@@ -167,7 +162,7 @@ Putra, Ahmad Dzulfikar Adi, Bae, Hye Rim, Pulshashi, Iq Reviessay, Sutrisnowati,
 
 ## [prastyabudi2009implementasi](#prastyabudi2009implementasi)
 
-Prastyabudi, Wahyu Andy, "**Implementasi Algoritma Genetika Steady State Untuk Mengoptimalkan Desain Jaringan Rantai Pasok Perusahaan Multi Produk**," 2009.
+Prastyabudi, Wahyu Andy, "**Implementasi Algoritma Genetika Steady State Untuk Mengoptimalkan Desain Jaringan Rantai Pasok Perusahaan Multi Produk**," PhD thesis, *Institut Teknologi Sepuluh Nopember* 2009.
 
 [](#prastyabudi2009implementasiBib)
 **BibTeX entry:**
@@ -175,11 +170,10 @@ Prastyabudi, Wahyu Andy, "**Implementasi Algoritma Genetika Steady State Untuk M
 {% raw %}
 
 ```bibtex
-@MISC {prastyabudi2009implementasi,
+@PHDTHESIS {prastyabudi2009implementasi,
       title={Implementasi Algoritma Genetika Steady State Untuk Mengoptimalkan Desain Jaringan Rantai Pasok Perusahaan Multi Produk},
       author={Prastyabudi, Wahyu Andy},
       year={2009},
-      type={Bachelor's Thesis},
       school={Institut Teknologi Sepuluh Nopember}
 }
 ```
@@ -188,7 +182,7 @@ Prastyabudi, Wahyu Andy, "**Implementasi Algoritma Genetika Steady State Untuk M
 
 ## [prastyabudi2019finding](#prastyabudi2019finding)
 
-Prastyabudi, Wahyu Andy, "**Finding Frequent Routes From Taxi Trips With Time Windows: NYC Case**," In *Proceedings of the 2019 5th International Conference on Computing and Artificial Intelligence*. 2019, pp. 1-5. <a href='https://dx.doi.org/10.1145/3330482.3330492' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Prastyabudi, Wahyu Andy, "**Finding Frequent Routes From Taxi Trips With Time Windows: NYC Case**," In *Proceedings of the 2019 5th International Conference on Computing and Artificial Intelligence*. 2019, pp. 1-5.
 
 [](#prastyabudi2019findingBib)
 **BibTeX entry:**
@@ -201,8 +195,7 @@ Prastyabudi, Wahyu Andy, "**Finding Frequent Routes From Taxi Trips With Time Wi
       author={Prastyabudi, Wahyu Andy},
       booktitle={Proceedings of the 2019 5th International Conference on Computing and Artificial Intelligence},
       pages={1--5},
-      year={2019},
-      doi={10.1145/3330482.3330492}
+      year={2019}
 }
 ```
 
@@ -210,7 +203,7 @@ Prastyabudi, Wahyu Andy, "**Finding Frequent Routes From Taxi Trips With Time Wi
 
 ## [prastyabudi2019analisa](#prastyabudi2019analisa)
 
-Prastyabudi, Wahyu Andy, Adiyanto, Okka, and Adityo, Luthfi Bagus, "**Analisa Kapasitas Produksi Di stasiun Perakitan Dengan Metode Penjadwalan Deterministik**," *Jurnal Manajemen Industri dan Logistik*, Vol. 3, No. 01, 2019, pp. 1-13. <a href='https://dx.doi.org/10.30988/jmil.v3i2.170' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Prastyabudi, Wahyu Andy, Adiyanto, Okka, and Adityo, Luthfi Bagus, "**Analisa Kapasitas Produksi Di stasiun Perakitan Dengan Metode Penjadwalan Deterministik**," *Jurnal Manajemen Industri dan Logistik*, Vol. 3, No. 01, 2019, pp. 1-13.
 
 [](#prastyabudi2019analisaBib)
 **BibTeX entry:**
@@ -225,8 +218,7 @@ Prastyabudi, Wahyu Andy, Adiyanto, Okka, and Adityo, Luthfi Bagus, "**Analisa Ka
       volume={3},
       number={01},
       pages={1--13},
-      year={2019},
-      doi={10.30988/jmil.v3i2.170}
+      year={2019}
 }
 ```
 
@@ -234,7 +226,7 @@ Prastyabudi, Wahyu Andy, Adiyanto, Okka, and Adityo, Luthfi Bagus, "**Analisa Ka
 
 ## [muttaqin2020workplace](#muttaqin2020workplace)
 
-Muttaqin, Benazir Imam Arif, Prastyabudi, Wahyu Andy, and Zunaidi, Rizqa Amelia, "**Workplace design selection framework to increase productivity by using virtual reality**," In *AIP conference proceedings*. 2020. <a href='https://dx.doi.org/10.1063/5.0000641' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Muttaqin, Benazir Imam Arif, Prastyabudi, Wahyu Andy, and Zunaidi, Rizqa Amelia, "**Workplace design selection framework to increase productivity by using virtual reality**," In *AIP conference proceedings*. 2020.
 
 [](#muttaqin2020workplaceBib)
 **BibTeX entry:**
@@ -249,8 +241,7 @@ Muttaqin, Benazir Imam Arif, Prastyabudi, Wahyu Andy, and Zunaidi, Rizqa Amelia,
       volume={2217},
       number={1},
       year={2020},
-      organization={AIP Publishing},
-      doi={10.1063/5.0000641}
+      organization={AIP Publishing}
 }
 ```
 
@@ -258,7 +249,7 @@ Muttaqin, Benazir Imam Arif, Prastyabudi, Wahyu Andy, and Zunaidi, Rizqa Amelia,
 
 ## [zunaidi2019pemodelan](#zunaidi2019pemodelan)
 
-Zunaidi, RA, Prastyabudi, WA, Albana, AS, Dewi, Sinta, and Salsabilah, Nisrina, "**PEMODELAN PERMINTAAN YANG MEMPERTIMBANGKAN HARGA, LOKASI DAN REBATE**," *Spektrum Industri*, Vol. 17, No. 2, 2019, pp. 109-117. <a href='https://dx.doi.org/10.12928/si.v17i2.14325' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Zunaidi, RA, Prastyabudi, WA, Albana, AS, Dewi, Sinta, and Salsabilah, Nisrina, "**PEMODELAN PERMINTAAN YANG MEMPERTIMBANGKAN HARGA, LOKASI DAN REBATE**," *Spektrum Industri*, Vol. 17, No. 2, 2019, pp. 109-117.
 
 [](#zunaidi2019pemodelanBib)
 **BibTeX entry:**
@@ -274,8 +265,7 @@ Zunaidi, RA, Prastyabudi, WA, Albana, AS, Dewi, Sinta, and Salsabilah, Nisrina, 
       number={2},
       pages={109--117},
       year={2019},
-      publisher={Universitas Ahmad Dahlan},
-      doi={10.12928/si.v17i2.14325}
+      publisher={Universitas Ahmad Dahlan}
 }
 ```
 
@@ -283,7 +273,7 @@ Zunaidi, RA, Prastyabudi, WA, Albana, AS, Dewi, Sinta, and Salsabilah, Nisrina, 
 
 ## [muttaqin2019vr](#muttaqin2019vr)
 
-Muttaqin, BIA, Albana, AS, Baskara, DB, Prastyabudi, WA, Prihadianto, RD, Dewi, S, and Zunaidi, RA, "**VR applications in ergonomic and productive workplace design: a literature review**," In *International Seminar on Information and Communication Technologies*. 2019, pp. 70-82. <a href='https://journal.ittelkom-sby.ac.id/isict2019/article/view/63' target='_blank'><i class='fas fa-fw fa-link'></i></a>
+Muttaqin, BIA, Albana, AS, Baskara, DB, Prastyabudi, WA, Prihadianto, RD, Dewi, S, and Zunaidi, RA, "**VR applications in ergonomic and productive workplace design: a literature review**," In *International Seminar on Information and Communication Technologies*. 2019, pp. 70-82.
 
 [](#muttaqin2019vrBib)
 **BibTeX entry:**
@@ -298,8 +288,7 @@ Muttaqin, BIA, Albana, AS, Baskara, DB, Prastyabudi, WA, Prihadianto, RD, Dewi, 
       volume={1},
       number={1},
       pages={70--82},
-      year={2019},
-      url={https://journal.ittelkom-sby.ac.id/isict2019/article/view/63}
+      year={2019}
 }
 ```
 
@@ -307,7 +296,7 @@ Muttaqin, BIA, Albana, AS, Baskara, DB, Prastyabudi, WA, Prihadianto, RD, Dewi, 
 
 ## [prastyabudi2020energy](#prastyabudi2020energy)
 
-Prastyabudi, Wahyu Andy and Hafidz, Isa, "**Energy Consumption Data Analysis: Indonesia Perspective**," *Journal of Computer, Electronic, and Telecommunication*, Vol. 1, No. 1, 2020. <a href='https://dx.doi.org/10.52435/complete.v1i1.47' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Prastyabudi, Wahyu Andy and Hafidz, Isa, "**Energy Consumption Data Analysis: Indonesia Perspective**," *Journal of Computer, Electronic, and Telecommunication*, Vol. 1, No. 1, 2020.
 
 [](#prastyabudi2020energyBib)
 **BibTeX entry:**
@@ -321,8 +310,7 @@ Prastyabudi, Wahyu Andy and Hafidz, Isa, "**Energy Consumption Data Analysis: In
       journal={Journal of Computer, Electronic, and Telecommunication},
       volume={1},
       number={1},
-      year={2020},
-      doi={10.52435/complete.v1i1.47}
+      year={2020}
 }
 ```
 
@@ -330,7 +318,7 @@ Prastyabudi, Wahyu Andy and Hafidz, Isa, "**Energy Consumption Data Analysis: In
 
 ## [hafidz2020iot](#hafidz2020iot)
 
-Hafidz, Isa, Adiputra, Dimas, Montolalu, Billy, Prastyabudi, Wahyu Andy, Widyantara, Helmy, and Afandi, Mas Aly, "**IoT-Based Logistic Robot for Real-Time Monitoring and Control Patients during COVID-19 Pandemic**," *Jurnal Nasional Teknik Elektro*, 2020, pp. 182-188. <a href='https://dx.doi.org/10.25077/jnte.v9n3.810.2020' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Hafidz, Isa, Adiputra, Dimas, Montolalu, Billy, Prastyabudi, Wahyu Andy, Widyantara, Helmy, and Afandi, Mas Aly, "**IoT-Based Logistic Robot for Real-Time Monitoring and Control Patients during COVID-19 Pandemic**," *Jurnal Nasional Teknik Elektro*, 2020, pp. 182-188.
 
 [](#hafidz2020iotBib)
 **BibTeX entry:**
@@ -343,8 +331,7 @@ Hafidz, Isa, Adiputra, Dimas, Montolalu, Billy, Prastyabudi, Wahyu Andy, Widyant
       author={Hafidz, Isa and Adiputra, Dimas and Montolalu, Billy and Prastyabudi, Wahyu Andy and Widyantara, Helmy and Afandi, Mas Aly},
       journal={Jurnal Nasional Teknik Elektro},
       pages={182--188},
-      year={2020},
-      doi={10.25077/jnte.v9n3.810.2020}
+      year={2020}
 }
 ```
 
@@ -352,7 +339,7 @@ Hafidz, Isa, Adiputra, Dimas, Montolalu, Billy, Prastyabudi, Wahyu Andy, Widyant
 
 ## [prastyabudi2020design](#prastyabudi2020design)
 
-Prastyabudi, Wahyu Andy, Zunaidi, Rizqa Amelia, Cahyani, Nabilla Adinna, Widianto, Hendrawan, Yuda, Arda Erico, Yamila, Elsa Diaz, and others, "**Design of Conceptual Framework for Measuring Operational Performance of Third-Party Logistics**," *Jurnal Teknik Industri*, Vol. 10, No. 3, 2020, pp. 240-247. <a href='https://e-journal.trisakti.ac.id/index.php/tekin/article/view/8409' target='_blank'><i class='fas fa-fw fa-link'></i></a>
+Prastyabudi, Wahyu Andy, Zunaidi, Rizqa Amelia, Cahyani, Nabilla Adinna, Widianto, Hendrawan, Yuda, Arda Erico, Yamila, Elsa Diaz, and others, "**Design of Conceptual Framework for Measuring Operational Performance of Third-Party Logistics**," *Jurnal Teknik Industri*, Vol. 10, No. 3, 2020, pp. 240-247.
 
 [](#prastyabudi2020designBib)
 **BibTeX entry:**
@@ -367,8 +354,7 @@ Prastyabudi, Wahyu Andy, Zunaidi, Rizqa Amelia, Cahyani, Nabilla Adinna, Widiant
       volume={10},
       number={3},
       pages={240--247},
-      year={2020},
-     url={https://e-journal.trisakti.ac.id/index.php/tekin/article/view/8409}
+      year={2020}
 }
 ```
 
@@ -376,7 +362,7 @@ Prastyabudi, Wahyu Andy, Zunaidi, Rizqa Amelia, Cahyani, Nabilla Adinna, Widiant
 
 ## [prasetyo2021analisis](#prasetyo2021analisis)
 
-Prasetyo, Muhammad Bayu, Pinandita, Adrianus Satria, Achmad, Yakfi Zamzami, and Prastyabudi, Wahyu Andy, "**ANALISIS KONTEN PEMBELAJARAN DIGITAL UNTUK MENGUKUR TINGKAT INTERAKSI DAN PEMAHAMAN MAHASISWA**," *Lomba Karya Tulis Ilmiah*, Vol. 2, No. 1, 2021, pp. 115-122. <a href='https://journal.ittelkom-sby.ac.id/lkti/article/view/147' target='_blank'><i class='fas fa-fw fa-link'></i></a>
+Prasetyo, Muhammad Bayu, Pinandita, Adrianus Satria, Achmad, Yakfi Zamzami, and Prastyabudi, Wahyu Andy, "**ANALISIS KONTEN PEMBELAJARAN DIGITAL UNTUK MENGUKUR TINGKAT INTERAKSI DAN PEMAHAMAN MAHASISWA**," *Lomba Karya Tulis Ilmiah*, Vol. 2, No. 1, 2021, pp. 115-122.
 
 [](#prasetyo2021analisisBib)
 **BibTeX entry:**
@@ -391,8 +377,7 @@ Prasetyo, Muhammad Bayu, Pinandita, Adrianus Satria, Achmad, Yakfi Zamzami, and 
       volume={2},
       number={1},
       pages={115--122},
-      year={2021},
-      url={https://journal.ittelkom-sby.ac.id/lkti/article/view/147}
+      year={2021}
 }
 ```
 
@@ -423,7 +408,7 @@ Hafidz, Isa, Adiputra, Dimas, Montolalu, Billy, Prastyabudi, Wahyu Andy, Widyant
 
 ## [yuda2021penerapan](#yuda2021penerapan)
 
-Yuda, Arda Erico, Prastyabudi, Wahyu Andy, Kom, S, Fauzi, Muhammad Dzulfikar, Kom, S, Arliyanti Nurdin, ST, and others, "**Penerapan System Thinking Untuk Peningkatan Branding dan Optimalisasi Manajemen Usaha Pada UKM Handy Craft Az-Zahra**," *Prosiding Konferensi Nasional Pengabdian Kepada Masyarakat dan Corporate Social Responsibility (PKM-CSR)*, Vol. 4, 2021, pp. 1191-1201. <a href='https://dx.doi.org/10.37695/pkmcsr.v4i0.1246' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Yuda, Arda Erico, Prastyabudi, Wahyu Andy, Kom, S, Fauzi, Muhammad Dzulfikar, Kom, S, Arliyanti Nurdin, ST, and others, "**Penerapan System Thinking Untuk Peningkatan Branding dan Optimalisasi Manajemen Usaha Pada UKM Handy Craft Az-Zahra**," *Prosiding Konferensi Nasional Pengabdian Kepada Masyarakat dan Corporate Social Responsibility (PKM-CSR)*, Vol. 4, 2021, pp. 1191-1201.
 
 [](#yuda2021penerapanBib)
 **BibTeX entry:**
@@ -437,8 +422,7 @@ Yuda, Arda Erico, Prastyabudi, Wahyu Andy, Kom, S, Fauzi, Muhammad Dzulfikar, Ko
       journal={Prosiding Konferensi Nasional Pengabdian Kepada Masyarakat dan Corporate Social Responsibility (PKM-CSR)},
       volume={4},
       pages={1191--1201},
-      year={2021},
-      doi={10.37695/pkmcsr.v4i0.1246}
+      year={2021}
 }
 ```
 
@@ -446,7 +430,7 @@ Yuda, Arda Erico, Prastyabudi, Wahyu Andy, Kom, S, Fauzi, Muhammad Dzulfikar, Ko
 
 ## [arismawati2021inventory](#arismawati2021inventory)
 
-Arismawati, Paramaditya, Prastyabudi, Wahyu Andy, and others, "**An Inventory Policy On Agroindustry Supply Chain: A Case Study Of Fruit Seasonal In East Java**," *Food & Agribusiness Management (FABM)*, Vol. 2, No. 2, 2021, pp. 35-39. <a href='https://fabm.org.my/archive/2fabm2021/2fabm2021-46-50.pdf  doi=10.26480/fabm.02.2021.46.50' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Arismawati, Paramaditya, Prastyabudi, Wahyu Andy, and others, "**An Inventory Policy On Agroindustry Supply Chain: A Case Study Of Fruit Seasonal In East Java**," *Food & Agribusiness Management (FABM)*, Vol. 2, No. 2, 2021, pp. 35-39.
 
 [](#arismawati2021inventoryBib)
 **BibTeX entry:**
@@ -462,8 +446,7 @@ Arismawati, Paramaditya, Prastyabudi, Wahyu Andy, and others, "**An Inventory Po
       number={2},
       pages={35--39},
       year={2021},
-      publisher={Zibeline International Publishing},
-      pdf={https://fabm.org.my/archive/2fabm2021/2fabm2021-46-50.pdf}  doi={10.26480/fabm.02.2021.46.50}
+      publisher={Zibeline International Publishing}
 }
 ```
 
@@ -471,7 +454,7 @@ Arismawati, Paramaditya, Prastyabudi, Wahyu Andy, and others, "**An Inventory Po
 
 ## [prastyabudi2022strengthening](#prastyabudi2022strengthening)
 
-Prastyabudi, Wahyu Andy, Yuda, Arda Erico, Fauzi, Muhammad Dzulfikar, and Nurdin, Arliyanti, "**Strengthening MSMEs crafting soft skills through the implementation of system thinking business model innovation**," *Abdimas: Jurnal Pengabdian Masyarakat Universitas Merdeka Malang*, Vol. 7, No. 2, 2022, pp. 230-241. <a href='https://dx.doi.org/10.26905/abdimas.v7i2.6815' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Prastyabudi, Wahyu Andy, Yuda, Arda Erico, Fauzi, Muhammad Dzulfikar, and Nurdin, Arliyanti, "**Strengthening MSMEs crafting soft skills through the implementation of system thinking business model innovation**," *Abdimas: Jurnal Pengabdian Masyarakat Universitas Merdeka Malang*, Vol. 7, No. 2, 2022, pp. 230-241.
 
 [](#prastyabudi2022strengtheningBib)
 **BibTeX entry:**
@@ -486,8 +469,7 @@ Prastyabudi, Wahyu Andy, Yuda, Arda Erico, Fauzi, Muhammad Dzulfikar, and Nurdin
       volume={7},
       number={2},
       pages={230--241},
-      year={2022},
-      doi={10.26905/abdimas.v7i2.6815}
+      year={2022}
 }
 ```
 
@@ -495,7 +477,7 @@ Prastyabudi, Wahyu Andy, Yuda, Arda Erico, Fauzi, Muhammad Dzulfikar, and Nurdin
 
 ## [prastyabudia2021conceptual](#prastyabudia2021conceptual)
 
-Prastyabudia, Wahyu Andy and Permatab, Oktavia Ayu, "**A Conceptual Design Of Waste Management: Smart Bin Deployment In Surabaya Smart City**," *Acta Mechanica Malaysia (AMM)*, Vol. 4, No. 1, 2021, pp. 05-09. <a href='https://dx.doi.org/10.26480/amm.01.2021.05.09' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a> <a href='https://actamechanicamalaysia.com/archives/1amm2021/1amm2021-05-09.pdf' target='_blank'><i class='fas fa-solid fa-file-pdf' style='color: {{ page.acrobat-color }}'></i></a>
+Prastyabudia, Wahyu Andy and Permatab, Oktavia Ayu, "**A Conceptual Design Of Waste Management: Smart Bin Deployment In Surabaya Smart City**," *Acta Mechanica Malaysia (AMM)*, Vol. 4, No. 1, 2021, pp. 05-09.
 
 [](#prastyabudia2021conceptualBib)
 **BibTeX entry:**
@@ -511,9 +493,7 @@ Prastyabudia, Wahyu Andy and Permatab, Oktavia Ayu, "**A Conceptual Design Of Wa
       number={1},
       pages={05--09},
       year={2021},
-      publisher={Zibeline International Publishing},
-      doi={10.26480/amm.01.2021.05.09},
-      pdf={https://actamechanicamalaysia.com/archives/1amm2021/1amm2021-05-09.pdf}
+      publisher={Zibeline International Publishing}
 }
 ```
 
@@ -521,7 +501,7 @@ Prastyabudia, Wahyu Andy and Permatab, Oktavia Ayu, "**A Conceptual Design Of Wa
 
 ## [saputra2021perluasan](#saputra2021perluasan)
 
-Saputra, Rafi Juniar, Dewi, Asri Kartika, Munna, Era Anzha Naelil, and Prastyabudi, Wahyu Andy, "**PERLUASAN PLATFORM E-LEARNING UNTUK MENUNJANG PEMBELAJARAN DI DAERAH TERPENCIL**," *Lomba Karya Tulis Ilmiah*, Vol. 2, No. 1, 2021, pp. 99-108. <a href='https://journal.ittelkom-sby.ac.id/lkti/article/view/138' target='_blank'><i class='fas fa-fw fa-link'></i></a>
+Saputra, Rafi Juniar, Dewi, Asri Kartika, Munna, Era Anzha Naelil, and Prastyabudi, Wahyu Andy, "**PERLUASAN PLATFORM E-LEARNING UNTUK MENUNJANG PEMBELAJARAN DI DAERAH TERPENCIL**," *Lomba Karya Tulis Ilmiah*, Vol. 2, No. 1, 2021, pp. 99-108.
 
 [](#saputra2021perluasanBib)
 **BibTeX entry:**
@@ -536,8 +516,7 @@ Saputra, Rafi Juniar, Dewi, Asri Kartika, Munna, Era Anzha Naelil, and Prastyabu
       volume={2},
       number={1},
       pages={99--108},
-      year={2021},
-      url={https://journal.ittelkom-sby.ac.id/lkti/article/view/138}
+      year={2021}
 }
 ```
 
@@ -545,7 +524,7 @@ Saputra, Rafi Juniar, Dewi, Asri Kartika, Munna, Era Anzha Naelil, and Prastyabu
 
 ## [prastyabudi2023pelatihan](#prastyabudi2023pelatihan)
 
-Prastyabudi, Wahyu Andy, Kristanto, Titus, and Sholik, Mohammad, "**Pelatihan Pembuatan Content Management System (CMS) Prestashop di SMK Ihyaul Ulum Gresik**," *ABDIKAN: Jurnal Pengabdian Masyarakat Bidang Sains dan Teknologi*, Vol. 2, No. 1, 2023, pp. 154-160. <a href='https://dx.doi.org/10.55123/abdikan.v2i1.1722' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Prastyabudi, Wahyu Andy, Kristanto, Titus, and Sholik, Mohammad, "**Pelatihan Pembuatan Content Management System (CMS) Prestashop di SMK Ihyaul Ulum Gresik**," *ABDIKAN: Jurnal Pengabdian Masyarakat Bidang Sains dan Teknologi*, Vol. 2, No. 1, 2023, pp. 154-160.
 
 [](#prastyabudi2023pelatihanBib)
 **BibTeX entry:**
@@ -560,8 +539,7 @@ Prastyabudi, Wahyu Andy, Kristanto, Titus, and Sholik, Mohammad, "**Pelatihan Pe
       volume={2},
       number={1},
       pages={154--160},
-      year={2023},
-      doi={10.55123/abdikan.v2i1.1722}
+      year={2023}
 }
 ```
 
@@ -569,7 +547,7 @@ Prastyabudi, Wahyu Andy, Kristanto, Titus, and Sholik, Mohammad, "**Pelatihan Pe
 
 ## [sudiarno2024analysis](#sudiarno2024analysis)
 
-Sudiarno, Adithya, Dewi, Ratna Sari, Widyaningrum, Retno, Akbar, Reza Aulia, Sudianto, Yupit, Prastyabudi, Wahyu Andy, and others, "**Analysis of Human Performance and Potential Application of Virtual Reality (VR) Shooting Games as a Shooting Training Simulator for Military Personnel.**," *International Journal of Technology*, Vol. 15, No. 1, 2024. <a href='https://dx.doi.org/10.14716/ijtech.v15i1.5303' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Sudiarno, Adithya, Dewi, Ratna Sari, Widyaningrum, Retno, Akbar, Reza Aulia, Sudianto, Yupit, Prastyabudi, Wahyu Andy, and others, "**Analysis of Human Performance and Potential Application of Virtual Reality (VR) Shooting Games as a Shooting Training Simulator for Military Personnel.**," *International Journal of Technology*, Vol. 15, No. 1, 2024.
 
 [](#sudiarno2024analysisBib)
 **BibTeX entry:**
@@ -583,8 +561,7 @@ Sudiarno, Adithya, Dewi, Ratna Sari, Widyaningrum, Retno, Akbar, Reza Aulia, Sud
       journal={International Journal of Technology},
       volume={15},
       number={1},
-      year={2024},
-      doi={10.14716/ijtech.v15i1.5303}
+      year={2024}
 }
 ```
 
@@ -592,7 +569,7 @@ Sudiarno, Adithya, Dewi, Ratna Sari, Widyaningrum, Retno, Akbar, Reza Aulia, Sud
 
 ## [prastyabudi2024segmenting](#prastyabudi2024segmenting)
 
-Prastyabudi, Wahyu Andy, Alifah, Amalia Nur, and Nurdin, Arliyanti, "**Segmenting the Higher Education Market: An Analysis of Admissions Data Using K-Means Clustering**," *Procedia Computer Science*, Vol. 234, 2024, pp. 96-105. <a href='https://dx.doi.org/10.1016/j.procs.2024.02.156' target='_blank'><i class='ai ai-fw ai-doi' style='color: {{ page.doi-color }}'></i></a>
+Prastyabudi, Wahyu Andy, Alifah, Amalia Nur, and Nurdin, Arliyanti, "**Segmenting the Higher Education Market: An Analysis of Admissions Data Using K-Means Clustering**," *Procedia Computer Science*, Vol. 234, 2024, pp. 96-105.
 
 [](#prastyabudi2024segmentingBib)
 **BibTeX entry:**
@@ -607,8 +584,169 @@ Prastyabudi, Wahyu Andy, Alifah, Amalia Nur, and Nurdin, Arliyanti, "**Segmentin
       volume={234},
       pages={96--105},
       year={2024},
-      publisher={Elsevier},
-      doi={10.1016/j.procs.2024.02.156}
+      publisher={Elsevier}
+}
+```
+
+{% endraw %}
+
+## [prastyabudi2024comparison](#prastyabudi2024comparison)
+
+Prastyabudi, Wahyu Andy and Shamaradewa, Shanggabuana Adhitya, "**Comparison of Moving Average and Exponential Smoothing Methods for Estimating the Number of Internet Service Disruptions**," *Jurnal Rekayasa Sistem Industri*, Vol. 13, No. 2, 2024, pp. 157-176.
+
+[](#prastyabudi2024comparisonBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {prastyabudi2024comparison,
+      title={Comparison of Moving Average and Exponential Smoothing Methods for Estimating the Number of Internet Service Disruptions},
+      author={Prastyabudi, Wahyu Andy and Shamaradewa, Shanggabuana Adhitya},
+      journal={Jurnal Rekayasa Sistem Industri},
+      volume={13},
+      number={2},
+      pages={157--176},
+      year={2024}
+}
+```
+
+{% endraw %}
+
+## [prastyabudi2024measuring](#prastyabudi2024measuring)
+
+Prastyabudi, Wahyu Andy and Latifah, Sephia Arda, "**Measuring library service excellence: Integrating SERVQUAL with accreditation standards**," *Journal of Advances in Information and Industrial Technology*, Vol. 6, No. 2, 2024, pp. 131-142.
+
+[](#prastyabudi2024measuringBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {prastyabudi2024measuring,
+      title={Measuring library service excellence: Integrating SERVQUAL with accreditation standards},
+      author={Prastyabudi, Wahyu Andy and Latifah, Sephia Arda},
+      journal={Journal of Advances in Information and Industrial Technology},
+      volume={6},
+      number={2},
+      pages={131--142},
+      year={2024}
+}
+```
+
+{% endraw %}
+
+## [prastyabudi2024systematic](#prastyabudi2024systematic)
+
+Prastyabudi, Wahyu Andy, Faharga, Rafidsyah Aldin, and Chandra, Huki, "**Systematic Risk Analysis of Railway Component Quality: Integration of Failure Mode & Effect Analysis (FMEA) and Fault Tree Analysis (FTA)**," *Spektrum Industri*, Vol. 22, No. 2, 2024, pp. 77-89.
+
+[](#prastyabudi2024systematicBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {prastyabudi2024systematic,
+      title={Systematic Risk Analysis of Railway Component Quality: Integration of Failure Mode \& Effect Analysis (FMEA) and Fault Tree Analysis (FTA)},
+      author={Prastyabudi, Wahyu Andy and Faharga, Rafidsyah Aldin and Chandra, Huki},
+      journal={Spektrum Industri},
+      volume={22},
+      number={2},
+      pages={77--89},
+      year={2024}
+}
+```
+
+{% endraw %}
+
+## [alifah2024data](#alifah2024data)
+
+Alifah, Amalia Nur, Permata, Regita Putri, Sanjaya, I Made Wisnu Adi, Arismawati, Paramaditya, and Prastyabudi, Wahyu Andy, "**Data-Driven Insights into High School Market Segmentation Using Multidimensional Clustering Approaches**," In *2024 Beyond Technology Summit on Informatics International Conference (BTS-I2C)*. 2024, pp. 47-52.
+
+[](#alifah2024dataBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@INPROCEEDINGS {alifah2024data,
+      title={Data-Driven Insights into High School Market Segmentation Using Multidimensional Clustering Approaches},
+      author={Alifah, Amalia Nur and Permata, Regita Putri and Sanjaya, I Made Wisnu Adi and Arismawati, Paramaditya and Prastyabudi, Wahyu Andy},
+      booktitle={2024 Beyond Technology Summit on Informatics International Conference (BTS-I2C)},
+      pages={47--52},
+      year={2024},
+      organization={IEEE}
+}
+```
+
+{% endraw %}
+
+## [prastyabudi2025evaluating](#prastyabudi2025evaluating)
+
+Prastyabudi, Wahyu Andy and Solvang, Wei Deng, "**Evaluating the efficiency of Norwegian aquaculture production areas: A Data Envelopment Analysis Approach**," *IFAC-PapersOnLine*, Vol. 59, No. 10, 2025, pp. 1041-1046.
+
+[](#prastyabudi2025evaluatingBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {prastyabudi2025evaluating,
+      title={Evaluating the efficiency of Norwegian aquaculture production areas: A Data Envelopment Analysis Approach},
+      author={Prastyabudi, Wahyu Andy and Solvang, Wei Deng},
+      journal={IFAC-PapersOnLine},
+      volume={59},
+      number={10},
+      pages={1041--1046},
+      year={2025},
+      publisher={Elsevier}
+}
+```
+
+{% endraw %}
+
+## [prastyabudi2026conceptual](#prastyabudi2026conceptual)
+
+Prastyabudi, Wahyu Andy and Solvang, Wei Deng, "**A Conceptual Framework Toward the Sustainable Management of the Aquaculture Supply Chain: Insights and Future Research Directions**," *Logistics*, Vol. 10, No. 1, 2026, p. 21.
+
+[](#prastyabudi2026conceptualBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {prastyabudi2026conceptual,
+      title={A Conceptual Framework Toward the Sustainable Management of the Aquaculture Supply Chain: Insights and Future Research Directions},
+      author={Prastyabudi, Wahyu Andy and Solvang, Wei Deng},
+      journal={Logistics},
+      volume={10},
+      number={1},
+      pages={21},
+      year={2026},
+      publisher={MDPI}
+}
+```
+
+{% endraw %}
+
+## [prastyabudi2026data](#prastyabudi2026data)
+
+Prastyabudi, Wahyu Andy and Solvang, Wei Deng, "**A data-driven predictive modelling of delousing treatment events in Norwegian salmon farming using machine learning**," *Results in Engineering*, Vol. 30, 2026, p. 110736.
+
+[](#prastyabudi2026dataBib)
+**BibTeX entry:**
+
+{% raw %}
+
+```bibtex
+@ARTICLE {prastyabudi2026data,
+      title={A data-driven predictive modelling of delousing treatment events in Norwegian salmon farming using machine learning},
+      author={Prastyabudi, Wahyu Andy and Solvang, Wei Deng},
+      journal={Results in Engineering},
+      volume={30},
+      pages={110736},
+      year={2026},
+      publisher={Elsevier}
 }
 ```
 
